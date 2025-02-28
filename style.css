@@ -45,6 +45,7 @@ body {
 	font-size: 16px;
 	margin: 0;
 	overflow-x: hidden;
+	background-color: red;
 }
 
 .no-padding {
@@ -471,10 +472,11 @@ nav input{
 ====================*/
 
 #ts-slider {
-	display: inline;
-	float: left;
-	width: 100%;
-	position: relative;
+    display: inline;
+    float: left;
+    width: 100%;
+    position: relative;
+    background-color: #1f9a26;
 }
 
 #ts-slider .ts-slider-area {
@@ -665,6 +667,7 @@ nav input{
 	float: left;
 	width: 100%;
 	padding: 100px 0;
+	background-color: #fff;
 }
 
 .ts-about-us-area {
@@ -933,10 +936,11 @@ nav input{
 /*--------------------*/
 
 #ts-pricing-table {
-	display: inline;
-	float: left;
-	width: 100%;
-	padding: 100px 0;
+    display: inline;
+    float: left;
+    width: 100%;
+    padding: 100px 0;
+    background-color: #fff;
 }
 
 .ts-pricing-table-area {
@@ -1980,6 +1984,7 @@ MY CLIENTS SECTION
 
 #ts-page-header {
 	background-image: url("assets/img/page-header-bg.jpg");
+	background-color: #000;
 	background-position: center center;
 	background-size: cover;
 	display: inline;
@@ -2844,10 +2849,11 @@ ul.ts-project-info-list {
 	margin-right: 5px;
 }
 
-#ts-contact-map{
-	display: inline;
-	float: left;
-	width: 100%;
+#ts-contact-map {
+    display: inline;
+    float: left;
+    width: 100%;
+    background-color: #fff;
 }
 
 .ts-contact-map-area{
@@ -2867,6 +2873,7 @@ ul.ts-project-info-list {
 ====================*/
 
 #ts-404-error-page{
+	background-color: #fff;
 	display: inline;
 	float: left;
 	width: 100%;

@@ -1,0 +1,5 @@
+
+Animated Counter - https://codepen.io/sarjanahaque/pen/LYOMZpK
+Slick Slider - https://kenwheeler.github.io/slick/
+Font Awesome - https://fontawesome.com/
+Images - https://pixabay.com/, https://www.pexels.com/
